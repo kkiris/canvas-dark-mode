@@ -226,7 +226,9 @@
         "https://canvas.liverpool.ac.uk/*",
         "https://canvas.moravian.edu/*",
         "https://canvas-prod.ccsnh.edu/*",
-        "https://learn.wileyplus.com/*"
+        "https://learn.wileyplus.com/*",
+        "https://canvas.berklee.edu/*",
+        "https://bocce.online.berklee.edu/*"
       ],
       "css":[
           "css/styles.css"
